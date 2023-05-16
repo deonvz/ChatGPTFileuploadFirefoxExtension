@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "File Upload Chatbot",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "id": "file-upload-chatbot@example.com"
+    }
+  },
+  "permissions": [
+    "webNavigation",
+    "webRequest",
+    "webRequestBlocking",
+    "tabs"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["content.js"]
+    }
+  ],  
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
