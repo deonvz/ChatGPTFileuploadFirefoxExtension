@@ -17,4 +17,6 @@ Install the Firefox plugin, you can follow these steps:
 9. Go to the ChatGPT website, you will now have a File upload Button.
 10. The loading indicator shows how much has been uploaded as the script breaks the file into chunks to stay within the character limits of ChatGPT.
 
+* Note: Currently Extension must added again, each time the browser is restarted.
+
 ![1684228518303](image/README/1684228518303.png)
