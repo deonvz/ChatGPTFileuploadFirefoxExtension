@@ -1,6 +1,6 @@
 # ChatGPTFileuploadChromeExtension
 
-This extension will place a file upload for you on the ChatGPT website. Allow you to process your own scripts, files, documents, code, database and more in chat. Allow ChatGPT to work with your own data, answering questions, giving suggestions and updating the file. Full Props go to  "Automate My Life" on Youtube, for the great code.
+This extension will place a file upload for you on the ChatGPT website. Allow you to process your own scripts, files, documents, code, database and more in chat. Allow ChatGPT to work with your own data, answering questions, giving suggestions and updating the file. Props go to  "Automate My Life" on Youtube, for the base code.
 
 ![1684228454511](image/README/1684228454511.png)
 
@@ -19,4 +19,4 @@ Install the Firefox plugin, you can follow these steps:
 
 * Note: Currently Extension must added again, each time the browser is restarted.
 
-![1684228518303](image/README/1684228518303.png)
+![1684234362655](image/README/1684234362655.png)
